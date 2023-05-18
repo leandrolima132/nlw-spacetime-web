@@ -10,10 +10,9 @@ Trata-se de um sistema web que possibilita aos usuários registrar momentos de s
 $ sudo apt-get install nodejs
 ```
 #### 2. Instale um gerenciador de pacotes (yarn ou npm)
+( Obs: npm já vem por padrão no nodejs )
 ```
 $ npm install --global yarn
-
-( Obs: npm já vem por padrão no nodejs )
 ```
 
 #### 3. Abra o projeto na IDE de sua preferencia 
